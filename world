@@ -79,6 +79,7 @@ x11-libs/libXxf86misc:0
 x11-misc/bumblebee:0
 x11-misc/xvkbd:0
 x11-proto/inputproto:0
+x11-themes/arc-theme:0
 x11-themes/elementary-icon-theme:0
 x11-themes/equinox-themes:0
 x11-themes/gtk-engines:2
